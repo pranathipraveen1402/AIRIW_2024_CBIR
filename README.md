@@ -4,3 +4,7 @@ Used CLIP, FAISS, VBERT and siamese(failed attempt) for TBIR
 Used CLIP and DINO with FAISS for image-image retrieval
 
 Wish to build on the second system for user relevance feedback also  
+
+Please use this Google drive for the pkl embeddings, captions and indexes - i have also attached working video
+https://drive.google.com/drive/folders/1Qi6vXO_1X0UGiiWgki9fDbprkKzXzFr2?usp=drive_link
+
